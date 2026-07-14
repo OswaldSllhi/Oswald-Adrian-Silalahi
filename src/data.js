@@ -11,8 +11,8 @@ export const projects = [
     category: "Web Development",
     desc: "A comprehensive web-based management system integrating AI capabilities to automate administrative workflows and optimize operational efficiency.",
     shortDesc: "Centralized Certificate Administration System",
-    img: "src/assets/images/pelindo.webp", // <-- Gambar Thumbnail
-    popupImg: "src/assets/images/pelindo.webp", // <-- Gambar Pop-up (Sesuaikan nama file Anda)
+    img: "/images/pelindo.webp", // <-- Gambar Thumbnail
+    popupImg: "/images/pelindo.webp", // <-- Gambar Pop-up (Sesuaikan nama file Anda)
     link: "https://github.com/OswaldSllhi/ecommerce",
     tags: ["Website", "Pelindo", "AI"]
   },
@@ -22,8 +22,8 @@ export const projects = [
     category: "Mobile App",
     desc: "A smart mobile app that leverages artificial intelligence to generate personalized travel itineraries and streamline vacation planning.",
     shortDesc: "Smart Travel Itinerary Generator",
-    img: "src/assets/images/ts.webp",
-    popupImg: "src/assets/images/tsavy.webp", // <-- Sesuaikan nama file
+    img: "/images/ts.webp",
+    popupImg: "/images/tsavy.webp", // <-- Sesuaikan nama file
     link: "https://github.com/OswaldSllhi/TSavy",
     tags: ["Mobile", "JavaScript", "PHP", "AI"]
   },
@@ -33,8 +33,8 @@ export const projects = [
     category: "Artificial Intelligence",
     desc: "An intelligent Google Chrome extension integrated with a high-performance FastAPI backend, utilizing hyperparameter-tuned machine learning models to accurately filter and block online gambling content.",
     shortDesc: "AI-Powered Gambling Website Classification",
-    img: "src/assets/images/ikewyaa.webp",
-    popupImg: "src/assets/images/blocked.webp", // <-- Sesuaikan nama file
+    img: "/images/ikewyaa.webp",
+    popupImg: "/images/blocked.webp", // <-- Sesuaikan nama file
     link: "https://github.com/OswaldSllhi/Ikewya",
     tags: ["FastAPI", "Python", "Deep Learning", "Google Chrome Extension"]
   }

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { services, projects, techStack } from './data';
-import fotoOswald from './assets/images/oswalddd.webp';
+import fotoOswald from '/images/oswalddd.webp';
 
 export default function Portfolio() {
   // State untuk melacak project mana yang sedang aktif di pop-up
